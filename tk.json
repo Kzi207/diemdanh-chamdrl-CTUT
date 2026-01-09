@@ -1,0 +1,527 @@
+[
+  {
+    "username": "admin",
+    "password": "123",
+    "name": "Quản Trị Viên",
+    "role": "admin",
+    "classId": ""
+  },
+  {
+    "username": "CNCD2511061",
+    "password": "061",
+    "name": "TĂNG HOÀNG DIỆU ÁI",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511049",
+    "password": "049",
+    "name": "NGUYỄN QUỐC AN",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511023",
+    "password": "023",
+    "name": "NGÔ THIÊN ÂN",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511011",
+    "password": "011",
+    "name": "NGUYỄN TIỂU BẠCH",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511056",
+    "password": "056",
+    "name": "TRẦN QUỐC BẢO",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511003",
+    "password": "003",
+    "name": "HUỲNH THANH BÌNH",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511012",
+    "password": "012",
+    "name": "LÊ HUỆ ĐĂNG",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511060",
+    "password": "060",
+    "name": "NGUYỄN KHÁNH ĐĂNG",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511071",
+    "password": "071",
+    "name": "NGUYỄN CAO ĐẠT",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511025",
+    "password": "025",
+    "name": "ĐẶNG VĂN HOÀNG DỈ",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511064",
+    "password": "064",
+    "name": "MAI PHƯỚC ĐIỀN",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511047",
+    "password": "047",
+    "name": "NGUYỄN THÀNH ĐƯỢC",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511016",
+    "password": "016",
+    "name": "LÊ KHÁNH DUY",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511035",
+    "password": "035",
+    "name": "TIÊU HẢI GIÀU",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2411045",
+    "password": "045",
+    "name": "Trần Tứ Hải",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511006",
+    "password": "006",
+    "name": "HUỲNH LÊ DĨ HÀO",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511048",
+    "password": "048",
+    "name": "NGUYỄN VĂN HẠO",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511052",
+    "password": "052",
+    "name": "PHẠM THIỆN HẠO",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511018",
+    "password": "018",
+    "name": "NGUYỄN HỮU HẬU",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2411062",
+    "password": "062",
+    "name": "Hà Hoàng Hiệp",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511040",
+    "password": "040",
+    "name": "NGUYỄN ĐẶNG TRUNG HIẾU",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511002",
+    "password": "002",
+    "name": "TRẦN HỒ TÀI HOA",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511030",
+    "password": "030",
+    "name": "TIỀN PHI HÙNG",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511034",
+    "password": "034",
+    "name": "NGUYỄN HƯNG",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511041",
+    "password": "041",
+    "name": "NGUYỄN QUỐC HUY",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511028",
+    "password": "028",
+    "name": "PHẠM HOÀNG HUY",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511050",
+    "password": "050",
+    "name": "NGUYỄN PHÁT HOÀNG HUYNH",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511009",
+    "password": "009",
+    "name": "NGUYỄN THANH KHA",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511038",
+    "password": "038",
+    "name": "LÊ CHÍ KHANG",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511055",
+    "password": "055",
+    "name": "LÊ NHẬT KHANG",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511070",
+    "password": "070",
+    "name": "LÊ TUẤN KHANG",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511013",
+    "password": "013",
+    "name": "TRỊNH VĨ KHANG",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511021",
+    "password": "021",
+    "name": "TRƯƠNG THÁI KHANG",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511045",
+    "password": "045",
+    "name": "PHẠM ANH KHOA",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511022",
+    "password": "022",
+    "name": "BÙI MINH KHÔI",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511042",
+    "password": "042",
+    "name": "HỒ MINH KHÔI",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511046",
+    "password": "046",
+    "name": "HUỲNH ANH KHÔI",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511053",
+    "password": "053",
+    "name": "NGUYỄN HOÀNG ANH KHÔI",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511039",
+    "password": "039",
+    "name": "PHẠM TUẤN KIỆT",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511024",
+    "password": "024",
+    "name": "PHAN TUẤN KIỆT",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511058",
+    "password": "058",
+    "name": "HUỲNH CẢNH LỘC",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511067",
+    "password": "067",
+    "name": "LÊ TẤN LỘC",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511065",
+    "password": "065",
+    "name": "TRƯƠNG TẤN LỘC",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511069",
+    "password": "069",
+    "name": "HỒ PHƯỚC LỢI",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511072",
+    "password": "072",
+    "name": "ĐÀO GIA MINH",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511051",
+    "password": "051",
+    "name": "THẠCH HỮU NGHĨA",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511019",
+    "password": "019",
+    "name": "ĐẶNG ĐÀO NGỌC",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511020",
+    "password": "020",
+    "name": "LÊ TẤN NGUYÊN",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511008",
+    "password": "008",
+    "name": "NGUYỄN CHÍ NGUYỄN",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511059",
+    "password": "059",
+    "name": "CAO NGUYỄN GIA PHÁT",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511014",
+    "password": "014",
+    "name": "HỒ THUẬN PHÁT",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511027",
+    "password": "027",
+    "name": "NGUYỄN THÀNH PHỐ",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511026",
+    "password": "026",
+    "name": "TRẦN VĂN PHÚ",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511063",
+    "password": "063",
+    "name": "ĐOÀN TRỌNG PHÚC",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511057",
+    "password": "057",
+    "name": "PHẠM BẢO PHÚC",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511037",
+    "password": "037",
+    "name": "LÊ HOÀNG QUÂN",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511017",
+    "password": "017",
+    "name": "LÊ MINH QUÍ",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511015",
+    "password": "015",
+    "name": "NGUYỄN HÀ QUỐC",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511044",
+    "password": "044",
+    "name": "DANH DƯƠNG QUYỀN",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511066",
+    "password": "066",
+    "name": "THẠCH SA RỰT",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511043",
+    "password": "043",
+    "name": "NGUYỄN THÀNH TẤN",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511032",
+    "password": "032",
+    "name": "NGUYỄN VĂN PHÚC TẤN",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511029",
+    "password": "029",
+    "name": "NGUYỄN VĂN THÁI",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511033",
+    "password": "033",
+    "name": "NGUYỄN THÀNH THẬT",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511010",
+    "password": "010",
+    "name": "THẠCH PHƯỚC THIỆN",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511031",
+    "password": "031",
+    "name": "LƯU HOÀNG THỊNH",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511062",
+    "password": "062",
+    "name": "LƯƠNG VĂN THỨC",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511036",
+    "password": "036",
+    "name": "HUỲNH QUỐC TOÀN",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511001",
+    "password": "001",
+    "name": "TRẦN VĂN TRẠNG",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511054",
+    "password": "054",
+    "name": "VÕ VĂN TIỀN VI",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511007",
+    "password": "007",
+    "name": "NGUYỄN TRÍ VĨ",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511005",
+    "password": "005",
+    "name": "TRẦN QUỐC VIỆT",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511004",
+    "password": "004",
+    "name": "TRẦN TRIỆU VỸ",
+    "role": "student",
+    "classId": "CNCD2511"
+  },
+  {
+    "username": "CNCD2511068",
+    "password": "068",
+    "name": "BÙI THỊ MỸ XUYẾN",
+    "role": "student",
+    "classId": "CNCD2511"
+  }
+]
